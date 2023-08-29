@@ -2,7 +2,7 @@
 <center><img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="250"/></center>
 </div>
 <div>Hi there 👋 My name is Carlos Ruz</div>
-<h3 aling="center">|| Software engineer || Multi-Language Programmer || Student at the Faculty of Mathematics (FMAT) UADY ||</h3>
+<h3 aling="center"> Software engineer || Multi-Language Programmer || Student at the Faculty of Mathematics (FMAT) UADY </h3>
 <!--
 **XxCharlyRuzxX/XxCharlyRuzxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
