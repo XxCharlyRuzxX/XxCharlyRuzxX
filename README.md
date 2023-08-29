@@ -1,26 +1,15 @@
 <div id="header" aling="center">
-  <img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="250"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" width="250"/>
 </div>
+<h1> </h1>
 <div>Hi there 👋 My name is Carlos Ruz</div>
 <h3 aling="center"> Software engineer || Multi-Language Programmer || Student at the Faculty of Mathematics (FMAT) UADY </h3>
-![](https://cdn-icons-png.flaticon.com/512/25/25657.png)
-## 
-### About me:
+<h1> </h1>
+<h3>  About me:  </h3>
+<p>
  - 🖥️ Engineer Software Student   
  - ✉️ How to reach me **charlyruzruz2004@gmail.com**    
- - 🙋🏽‍♂️ Apossionate programmer 
-##
-### 🔨 Languages and Tools:
-**XxCharlyRuzxX/XxCharlyRuzxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🙋🏽‍♂️ Apossionate programmer  
+</p>
+<h1></h1>
+<h2>  🔨 Languages and Tools:  </h2> 
