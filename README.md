@@ -3,7 +3,14 @@
 </div>
 <div>Hi there 👋 My name is Carlos Ruz</div>
 <h3 aling="center"> Software engineer || Multi-Language Programmer || Student at the Faculty of Mathematics (FMAT) UADY </h3>
-<!--
+![](https://cdn-icons-png.flaticon.com/512/25/25657.png)
+## 
+### About me:
+ - 🖥️ Engineer Software Student   
+ - ✉️ How to reach me **charlyruzruz2004@gmail.com**    
+ - 🙋🏽‍♂️ Apossionate programmer 
+##
+### 🔨 Languages and Tools:
 **XxCharlyRuzxX/XxCharlyRuzxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
