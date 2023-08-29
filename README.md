@@ -1,4 +1,4 @@
-<div id="header" aling="center">
+<div id="header">
 <center><img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="250"/></center>
 </div>
 
