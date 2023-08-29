@@ -1,3 +1,7 @@
+<div id="header" aling="center">
+<img src="https://blog.facialix.com/wp-content/uploads/2023/01/Untitled-design-22-1-1024x576-1.jpg" width="200"/>
+</div>
+
 ### Hi there 👋
 
 <!--
