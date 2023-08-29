@@ -1,14 +1,4 @@
-<head>
-<style>
-  .center-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Opcional: para centrar verticalmente también */
-  }
-</style>
-</head>
-<div class=."center-image">
+<div id="header" aling="center">
   <img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="250"/>
 </div>
 <div>Hi there 👋 My name is Carlos Ruz</div>
