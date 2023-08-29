@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-<img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="400"/>
+<img src="https://www.somoslibres.org/images/2022/02/04/github.png" width="250"/>
 </div>
 
 ### Hi there 👋
