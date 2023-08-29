@@ -1,5 +1,5 @@
 <div id="header" text-aling="center">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/950/168/962/astronaut-hd-5k-wallpaper-preview.jpg" width="900"  height="450"/>
+  <img src="https://p4.wallpaperbetter.com/wallpaper/950/168/962/astronaut-hd-5k-wallpaper-preview.jpg" width="900"  height="500"/>
 </div>
 <div>
 <h2>Hi there 👋 My name is Carlos Ruz</h2>
