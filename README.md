@@ -1,8 +1,9 @@
-<div id="header" style="text-align: center;">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/950/168/962/astronaut-hd-5k-wallpaper-preview.jpg" width="800" height="350" />
+<div id="header" align="center">
+  <img src="https://lh3.googleusercontent.com/Oi8mr2j9QfQmpjMTKQXuAVGHLZ_pW3YQYNGH23H6qZYaoQoZKG5AL9sDT2YANdQ7GIG8VANbgzyoqlnqg7KS7Mo3b0WkvkXSAbY7Z1NR" width="750" height="400" />
+  <h2 align="center">Hi there 👋 My name is Carlos Ruz</h2>
 </div>
-<div>
-<h2>Hi there 👋 My name is Carlos Ruz</h2>
+
+
 <h4>
 PORGRAMADOR MID || YOU WILL NEVER WALK ALONE 
 </h4>
