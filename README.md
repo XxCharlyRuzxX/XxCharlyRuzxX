@@ -43,3 +43,9 @@ Future Software Engineer, University Student in Mexico,<br> Passionate Programme
  <hr>
 
 ### 🔨 Languages and Tools:  
+
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5 "alt="html" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3 "alt="css" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50">
+</div>
