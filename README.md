@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://lh3.googleusercontent.com/Oi8mr2j9QfQmpjMTKQXuAVGHLZ_pW3YQYNGH23H6qZYaoQoZKG5AL9sDT2YANdQ7GIG8VANbgzyoqlnqg7KS7Mo3b0WkvkXSAbY7Z1NR" width="750" height="400" />
-  <h2 align="center">Hi there 👋🏼, i´m Carlos Ruz</h2>
 </div>
+<h3 align="center">Hi there 👋🏼, i´m Carlos Ruz</h3>
+<hr>
 <h3 align="center">
 Future Software Engineer, University Student in Mexico,<br> Passionate Programmer and Perpetually Striving for Self-Enhancement
 </h3>
-
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/carlos-israel-ruz-ruz-55092028a/" >
      <img alt="Static Badge" src="https://img.shields.io/badge/build--%233498DB%20?style=for-the-badge&logo=linkedIn&logoColor=%233498DB%20&label=Carlos%20Ruz%20">
@@ -26,13 +26,20 @@ Future Software Engineer, University Student in Mexico,<br> Passionate Programme
   </a>
 
 </div>
+<hr>
 
- <h2> About me: </h2> 
-<p>
- - 🖥️ Engineer Software Student<br>   
- - ✉️ How to reach me charlyruzruz2004@gmail.com<br>      
- - 🙋🏽‍♂️ Apossionate programmer<br> 
- - 🏛️ Student at the Faculty of Mathematics UADY (FMAT)<br>
+ ### 🧍🏻‍♂️ About me:
+ 
+ - 🏛️ Student at the Faculty of Mathematics UADY (FMAT)
+      
+ - ✉️ How to reach me **charlyruzruz2004@gmail.com**
+    
  - ☕ Multi-Language Programmer
-</p>
-<h2>  🔨 Languages and Tools:  </h2> 
+ 
+ - 🎮 Hobbies: Soccer, VideoGames, Tv Series, To program at night
+ 
+ - 🎧 Always Listening to Music 
+  
+ <hr>
+
+### 🔨 Languages and Tools:  
