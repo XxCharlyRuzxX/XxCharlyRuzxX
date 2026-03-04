@@ -48,7 +48,7 @@ Future Software Engineer, University Student in Mexico,<br> Passionate Programme
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5 "alt="html" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3 "alt="css" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="java" alt="java" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next" alt="next" width="50" height="50">
